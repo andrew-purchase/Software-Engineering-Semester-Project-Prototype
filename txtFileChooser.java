@@ -1,5 +1,3 @@
-package test1;
-
 import javax.swing.JFileChooser;
 import java.util.Scanner;
 import java.io.File;
